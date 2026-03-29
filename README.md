@@ -339,6 +339,9 @@ We provide additional scripts and notebooks under the [`evaluation/`](evaluation
 * [`evaluation/analyze_repair_overlaps.ipynb`](evaluation/analyze_repair_overlaps.ipynb):
   Analyzes stochasticity and repair overlaps across multiple runs.
 
+### LocAgent Reproduction
+* [`results/rq1-1/locagent/locagent_results_claude46sonnet`](results/rq1-1/locagent/locagent_results_claude46sonnet)
+  This directory contains all the artifacts related to LocAgent when we ran it with `Claude-4.6-Sonnet`. We also included the [`logs`](results/rq1-1/locagent/locagent_results_claude46sonnet/localize.log) to enable further analysis/inspection if required.
 
 ## Acknowledgements
 We thank [Agentless](https://github.com/OpenAutoCoder/Agentless/tree/main) and [CoSIL](https://github.com/ZhonghaoJiang/CoSIL/tree/master) for their work and making it public for others to use.
