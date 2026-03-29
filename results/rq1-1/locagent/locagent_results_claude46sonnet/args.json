@@ -1,0 +1,22 @@
+{
+    "localize": true,
+    "merge": true,
+    "use_example": false,
+    "ranking_method": "mrr",
+    "dataset": "czlll/SWE-bench_Lite",
+    "split": "test",
+    "eval_n_limit": 0,
+    "used_list": "selected_ids",
+    "output_folder": "results",
+    "output_file": "results/loc_outputs.jsonl",
+    "merge_file": "merged_loc_outputs.jsonl",
+    "model": "claude-sonnet-4-6",
+    "use_function_calling": true,
+    "simple_desc": true,
+    "max_attempt_num": 1,
+    "num_samples": 1,
+    "num_processes": 1,
+    "log_level": "INFO",
+    "timeout": 300,
+    "rerun_empty_location": false
+}

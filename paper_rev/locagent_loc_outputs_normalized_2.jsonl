@@ -1,0 +1,158 @@
+{"instance_id": "django__django-12747", "found_files": ["django/db/models/deletion.py", "django/db/models/query.py", "django/db/models/base.py", "django/db/models/sql/subqueries.py"]}
+{"instance_id": "astropy__astropy-12907", "found_files": ["astropy/modeling/separable.py", "astropy/modeling/core.py"]}
+{"instance_id": "astropy__astropy-14182", "found_files": ["astropy/io/ascii/rst.py", "astropy/io/ascii/fixedwidth.py"]}
+{"instance_id": "astropy__astropy-14365", "found_files": ["astropy/io/ascii/qdp.py"]}
+{"instance_id": "django__django-10924", "found_files": ["django/db/models/fields/__init__.py", "django/forms/fields.py", "django/db/migrations/serializer.py"]}
+{"instance_id": "astropy__astropy-14995", "found_files": ["astropy/nddata/mixins/ndarithmetic.py", "astropy/nddata/nddata_withmixins.py", "astropy/nddata/nddata.py"]}
+{"instance_id": "astropy__astropy-6938", "found_files": ["astropy/io/fits/fitsrec.py", "astropy/io/fits/column.py", "astropy/io/fits/hdu/table.py"]}
+{"instance_id": "astropy__astropy-7746", "found_files": ["astropy/wcs/wcs.py"]}
+{"instance_id": "django__django-11001", "found_files": ["django/db/models/sql/compiler.py", "django/db/models/expressions.py"]}
+{"instance_id": "django__django-11019", "found_files": ["django/forms/widgets.py", "django/forms/forms.py"]}
+{"instance_id": "django__django-11039", "found_files": ["django/core/management/commands/sqlmigrate.py", "django/db/backends/base/schema.py", "django/db/backends/base/features.py", "django/db/migrations/executor.py", "django/core/management/base.py"]}
+{"instance_id": "django__django-11133", "found_files": ["django/http/response.py", "django/utils/encoding.py"]}
+{"instance_id": "django__django-11179", "found_files": ["django/db/models/deletion.py", "django/db/models/base.py"]}
+{"instance_id": "django__django-11283", "found_files": ["django/contrib/auth/migrations/0011_update_proxy_permissions.py", "django/contrib/auth/management/__init__.py", "django/contrib/auth/apps.py", "django/contrib/contenttypes/models.py", "django/contrib/auth/models.py"]}
+{"instance_id": "django__django-11422", "found_files": ["django/utils/autoreload.py"]}
+{"instance_id": "django__django-11583", "found_files": ["django/utils/autoreload.py"]}
+{"instance_id": "django__django-11620", "found_files": ["django/urls/resolvers.py", "django/views/debug.py", "django/core/handlers/exception.py", "django/core/handlers/base.py"]}
+{"instance_id": "django__django-11630", "found_files": ["django/core/checks/model_checks.py", "django/db/utils.py", "django/db/__init__.py"]}
+{"instance_id": "django__django-11742", "found_files": ["django/db/models/fields/__init__.py"]}
+{"instance_id": "django__django-11815", "found_files": ["django/db/migrations/serializer.py", "django/db/models/enums.py", "django/db/migrations/writer.py"]}
+{"instance_id": "django__django-11905", "found_files": ["django/db/models/lookups.py", "django/db/models/fields/related_lookups.py", "django/db/models/sql/query.py", "django/contrib/admin/utils.py"]}
+{"instance_id": "django__django-11848", "found_files": ["django/utils/http.py"]}
+{"instance_id": "django__django-11999", "found_files": ["django/db/models/fields/__init__.py", "django/db/models/base.py"]}
+{"instance_id": "django__django-11910", "found_files": ["django/db/migrations/autodetector.py", "django/db/migrations/operations/fields.py", "django/db/models/fields/related.py"]}
+{"instance_id": "django__django-12125", "found_files": ["django/db/migrations/serializer.py", "django/db/models/fields/__init__.py", "django/utils/deconstruct.py"]}
+{"instance_id": "django__django-12184", "found_files": ["django/urls/resolvers.py", "django/core/handlers/base.py"]}
+{"instance_id": "django__django-12284", "found_files": ["django/db/models/fields/__init__.py", "django/db/models/base.py"]}
+{"instance_id": "django__django-12286", "found_files": ["django/core/checks/translation.py", "django/utils/translation/trans_real.py", "django/utils/translation/__init__.py", "django/utils/translation/trans_null.py"]}
+{"instance_id": "django__django-12308", "found_files": ["django/contrib/admin/utils.py", "django/db/models/fields/json.py", "django/forms/fields.py", "django/contrib/admin/helpers.py", "django/contrib/postgres/fields/jsonb.py"]}
+{"instance_id": "django__django-12453", "found_files": ["django/db/backends/base/creation.py", "django/core/serializers/__init__.py", "django/core/management/commands/loaddata.py", "django/db/transaction.py"]}
+{"instance_id": "django__django-12589", "found_files": ["django/db/models/expressions.py", "django/db/models/sql/compiler.py", "django/db/models/sql/query.py", "django/db/models/query.py"]}
+{"instance_id": "django__django-12700", "found_files": ["django/views/debug.py"]}
+{"instance_id": "django__django-12708", "found_files": ["django/db/backends/base/schema.py", "django/db/backends/mysql/schema.py"]}
+{"instance_id": "django__django-12856", "found_files": ["django/db/models/base.py", "django/db/models/constraints.py"]}
+{"instance_id": "django__django-12908", "found_files": ["django/db/models/query.py", "django/db/models/sql/compiler.py", "django/db/models/sql/query.py"]}
+{"instance_id": "django__django-12983", "found_files": ["django/utils/text.py", "django/template/defaultfilters.py"]}
+{"instance_id": "django__django-13028", "found_files": ["django/db/models/sql/query.py", "django/db/models/expressions.py"]}
+{"instance_id": "django__django-13033", "found_files": ["django/db/models/sql/compiler.py"]}
+{"instance_id": "django__django-13158", "found_files": ["django/db/models/query.py", "django/db/models/sql/query.py", "django/db/models/sql/compiler.py", "django/forms/models.py", "django/db/models/sql/where.py"]}
+{"instance_id": "django__django-13230", "found_files": ["django/contrib/syndication/views.py", "django/utils/feedgenerator.py"]}
+{"instance_id": "django__django-13265", "found_files": ["django/db/migrations/autodetector.py", "django/db/migrations/operations/models.py"]}
+{"instance_id": "django__django-13315", "found_files": ["django/forms/models.py", "django/db/models/fields/related.py", "django/db/models/fields/reverse_related.py", "django/db/models/query.py"]}
+{"instance_id": "django__django-13321", "found_files": ["django/contrib/sessions/backends/base.py", "django/contrib/sessions/backends/db.py", "django/contrib/sessions/backends/cached_db.py", "django/contrib/sessions/base_session.py"]}
+{"instance_id": "django__django-13401", "found_files": ["django/db/models/fields/__init__.py", "django/db/models/fields/related.py", "django/db/models/base.py", "django/db/models/options.py"]}
+{"instance_id": "django__django-13447", "found_files": ["django/contrib/admin/sites.py"]}
+{"instance_id": "django__django-13448", "found_files": ["django/db/backends/base/creation.py", "django/db/migrations/loader.py", "django/db/backends/oracle/creation.py", "django/conf/global_settings.py"]}
+{"instance_id": "django__django-13551", "found_files": ["django/contrib/auth/tokens.py", "django/contrib/auth/base_user.py", "django/contrib/auth/forms.py", "django/contrib/auth/views.py", "django/contrib/auth/models.py"]}
+{"instance_id": "django__django-13590", "found_files": ["django/db/models/sql/query.py"]}
+{"instance_id": "django__django-13658", "found_files": ["django/core/management/__init__.py", "django/core/management/base.py"]}
+{"instance_id": "django__django-13660", "found_files": ["django/core/management/commands/shell.py"]}
+{"instance_id": "django__django-13710", "found_files": ["django/contrib/admin/options.py", "django/db/models/options.py", "django/contrib/admin/checks.py", "django/contrib/admin/helpers.py", "django/contrib/admin/utils.py"]}
+{"instance_id": "django__django-13757", "found_files": ["django/db/models/fields/json.py"]}
+{"instance_id": "django__django-13768", "found_files": ["django/dispatch/dispatcher.py"]}
+{"instance_id": "django__django-13925", "found_files": ["django/db/models/base.py", "django/db/models/options.py", "django/apps/config.py"]}
+{"instance_id": "django__django-13933", "found_files": ["django/forms/models.py", "django/forms/fields.py"]}
+{"instance_id": "django__django-13964", "found_files": ["django/db/models/base.py", "django/db/models/fields/related_descriptors.py", "django/db/models/fields/related.py", "django/db/models/fields/__init__.py"]}
+{"instance_id": "django__django-14017", "found_files": ["django/db/models/query_utils.py", "django/db/models/expressions.py"]}
+{"instance_id": "django__django-14155", "found_files": ["django/urls/resolvers.py", "django/urls/__init__.py"]}
+{"instance_id": "django__django-14238", "found_files": ["django/db/models/fields/__init__.py", "django/db/models/options.py", "django/db/models/base.py"]}
+{"instance_id": "django__django-14382", "found_files": ["django/core/management/templates.py", "django/core/management/commands/startapp.py", "django/core/management/commands/startproject.py"]}
+{"instance_id": "django__django-14534", "found_files": ["django/forms/boundfield.py", "django/forms/widgets.py"]}
+{"instance_id": "django__django-14580", "found_files": ["django/db/migrations/serializer.py", "django/db/migrations/writer.py", "django/db/migrations/state.py", "django/db/migrations/operations/models.py", "django/db/migrations/autodetector.py"]}
+{"instance_id": "django__django-14608", "found_files": ["django/forms/formsets.py", "django/forms/utils.py", "django/forms/forms.py", "django/contrib/admin/helpers.py"]}
+{"instance_id": "django__django-14667", "found_files": ["django/db/models/sql/query.py", "django/db/models/query.py"]}
+{"instance_id": "django__django-14672", "found_files": ["django/db/models/fields/reverse_related.py", "django/utils/hashable.py", "django/db/models/fields/related.py"]}
+{"instance_id": "django__django-14730", "found_files": ["django/db/models/fields/related.py", "django/db/models/fields/reverse_related.py"]}
+{"instance_id": "django__django-14752", "found_files": ["django/contrib/admin/views/autocomplete.py", "django/contrib/admin/sites.py"]}
+{"instance_id": "django__django-14787", "found_files": ["django/utils/decorators.py"]}
+{"instance_id": "django__django-14855", "found_files": ["django/contrib/admin/helpers.py", "django/contrib/admin/options.py", "django/contrib/admin/models.py"]}
+{"instance_id": "django__django-14997", "found_files": ["django/db/backends/ddl_references.py", "django/db/backends/sqlite3/schema.py", "django/db/models/constraints.py", "django/db/backends/base/schema.py", "django/db/models/expressions.py"]}
+{"instance_id": "django__django-14999", "found_files": ["django/db/migrations/operations/models.py", "django/db/migrations/state.py", "django/db/backends/base/schema.py"]}
+{"instance_id": "django__django-15061", "found_files": ["django/forms/widgets.py", "django/contrib/postgres/forms/array.py", "django/forms/boundfield.py"]}
+{"instance_id": "django__django-15202", "found_files": ["django/core/validators.py", "django/forms/fields.py"]}
+{"instance_id": "django__django-15252", "found_files": ["django/db/migrations/recorder.py", "django/db/migrations/executor.py", "django/db/migrations/loader.py", "django/db/utils.py"]}
+{"instance_id": "django__django-15320", "found_files": ["django/db/models/expressions.py", "django/db/models/sql/query.py"]}
+{"instance_id": "django__django-15347", "found_files": ["django/contrib/messages/storage/cookie.py", "django/contrib/messages/storage/base.py", "django/contrib/messages/api.py"]}
+{"instance_id": "django__django-15498", "found_files": ["django/views/static.py", "django/utils/cache.py", "django/utils/http.py", "django/middleware/http.py"]}
+{"instance_id": "django__django-15695", "found_files": ["django/db/migrations/operations/models.py", "django/db/backends/base/schema.py", "django/db/migrations/state.py"]}
+{"instance_id": "django__django-15781", "found_files": ["django/core/management/base.py"]}
+{"instance_id": "django__django-15789", "found_files": ["django/utils/html.py", "django/template/defaultfilters.py"]}
+{"instance_id": "django__django-15814", "found_files": ["django/db/models/sql/query.py", "django/db/models/query.py", "django/db/models/sql/compiler.py"]}
+{"instance_id": "django__django-15819", "found_files": ["django/core/management/commands/inspectdb.py"]}
+{"instance_id": "django__django-15851", "found_files": ["django/db/backends/postgresql/client.py", "django/db/backends/base/client.py", "django/core/management/commands/dbshell.py", "django/db/backends/mysql/client.py", "django/db/backends/sqlite3/client.py"]}
+{"instance_id": "django__django-15996", "found_files": ["django/db/migrations/serializer.py"]}
+{"instance_id": "django__django-16041", "found_files": ["django/forms/formsets.py"]}
+{"instance_id": "django__django-16046", "found_files": ["django/utils/numberformat.py", "django/utils/formats.py"]}
+{"instance_id": "django__django-16139", "found_files": ["django/contrib/auth/forms.py", "django/contrib/auth/admin.py"]}
+{"instance_id": "django__django-16255", "found_files": ["django/contrib/sitemaps/__init__.py", "django/contrib/sitemaps/views.py"]}
+{"instance_id": "django__django-16527", "found_files": ["django/contrib/admin/templatetags/admin_modify.py", "django/contrib/admin/options.py"]}
+{"instance_id": "django__django-16595", "found_files": ["django/db/migrations/operations/fields.py", "django/db/migrations/optimizer.py", "django/db/migrations/operations/base.py"]}
+{"instance_id": "django__django-16816", "found_files": ["django/contrib/admin/checks.py", "django/contrib/admin/utils.py", "django/contrib/admin/templatetags/admin_list.py", "django/db/models/fields/reverse_related.py"]}
+{"instance_id": "django__django-16873", "found_files": ["django/template/defaultfilters.py"]}
+{"instance_id": "django__django-17051", "found_files": ["django/db/models/query.py", "django/db/models/sql/compiler.py", "django/db/backends/base/features.py", "django/db/backends/postgresql/features.py", "django/db/backends/sqlite3/features.py"]}
+{"instance_id": "django__django-17087", "found_files": ["django/db/migrations/serializer.py"]}
+{"instance_id": "django__django-16408", "found_files": ["django/db/models/sql/compiler.py", "django/db/models/sql/query.py", "django/db/models/query.py", "django/db/models/query_utils.py"]}
+{"instance_id": "django__django-16910", "found_files": ["django/db/models/sql/query.py", "django/db/models/sql/compiler.py", "django/db/models/query_utils.py", "django/db/models/fields/reverse_related.py"]}
+{"instance_id": "matplotlib__matplotlib-18869", "found_files": ["lib/matplotlib/__init__.py"]}
+{"instance_id": "matplotlib__matplotlib-22711", "found_files": ["lib/matplotlib/widgets.py", "lib/matplotlib/patches.py", "lib/matplotlib/axes/_axes.py"]}
+{"instance_id": "matplotlib__matplotlib-22835", "found_files": ["lib/matplotlib/artist.py", "lib/matplotlib/colors.py", "lib/matplotlib/cbook/__init__.py", "lib/matplotlib/cm.py"]}
+{"instance_id": "matplotlib__matplotlib-23314", "found_files": ["lib/mpl_toolkits/mplot3d/axes3d.py", "lib/matplotlib/axes/_base.py", "lib/matplotlib/artist.py"]}
+{"instance_id": "matplotlib__matplotlib-23562", "found_files": ["lib/mpl_toolkits/mplot3d/art3d.py", "lib/mpl_toolkits/mplot3d/axes3d.py"]}
+{"instance_id": "matplotlib__matplotlib-23563", "found_files": ["lib/mpl_toolkits/mplot3d/art3d.py", "lib/mpl_toolkits/mplot3d/axes3d.py"]}
+{"instance_id": "matplotlib__matplotlib-23913", "found_files": ["lib/matplotlib/legend.py", "lib/matplotlib/axes/_axes.py", "lib/matplotlib/figure.py"]}
+{"instance_id": "matplotlib__matplotlib-23964", "found_files": ["lib/matplotlib/backends/backend_ps.py", "lib/matplotlib/text.py", "lib/matplotlib/_text_helpers.py"]}
+{"instance_id": "matplotlib__matplotlib-23987", "found_files": ["lib/matplotlib/figure.py", "lib/matplotlib/layout_engine.py"]}
+{"instance_id": "matplotlib__matplotlib-24149", "found_files": ["lib/matplotlib/cbook/__init__.py", "lib/matplotlib/axes/_axes.py"]}
+{"instance_id": "matplotlib__matplotlib-24265", "found_files": ["lib/matplotlib/style/core.py", "lib/matplotlib/style/__init__.py"]}
+{"instance_id": "matplotlib__matplotlib-24970", "found_files": ["lib/matplotlib/colors.py"]}
+{"instance_id": "matplotlib__matplotlib-25311", "found_files": ["lib/matplotlib/offsetbox.py", "lib/matplotlib/legend.py", "lib/matplotlib/figure.py", "lib/matplotlib/text.py"]}
+{"instance_id": "matplotlib__matplotlib-25433", "found_files": ["lib/matplotlib/widgets.py", "lib/matplotlib/backend_bases.py"]}
+{"instance_id": "matplotlib__matplotlib-25442", "found_files": ["lib/matplotlib/offsetbox.py"]}
+{"instance_id": "matplotlib__matplotlib-26011", "found_files": ["lib/matplotlib/axis.py", "lib/matplotlib/axes/_base.py", "lib/matplotlib/colorbar.py", "lib/mpl_toolkits/axes_grid1/parasite_axes.py"]}
+{"instance_id": "matplotlib__matplotlib-26020", "found_files": ["lib/mpl_toolkits/axes_grid1/axes_grid.py", "lib/mpl_toolkits/axes_grid1/mpl_axes.py"]}
+{"instance_id": "mwaskom__seaborn-2848", "found_files": ["seaborn/_oldcore.py", "seaborn/axisgrid.py"]}
+{"instance_id": "mwaskom__seaborn-3010", "found_files": ["seaborn/_stats/regression.py"]}
+{"instance_id": "mwaskom__seaborn-3190", "found_files": ["seaborn/_core/scales.py", "seaborn/_core/rules.py", "seaborn/_core/properties.py", "seaborn/_core/plot.py"]}
+{"instance_id": "pallets__flask-4045", "found_files": ["src/flask/blueprints.py", "src/flask/app.py"]}
+{"instance_id": "pallets__flask-5063", "found_files": ["src/flask/cli.py", "src/flask/blueprints.py", "src/flask/app.py"]}
+{"instance_id": "psf__requests-1963", "found_files": ["requests/sessions.py"]}
+{"instance_id": "psf__requests-2148", "found_files": ["requests/models.py", "requests/packages/urllib3/response.py", "requests/adapters.py", "requests/exceptions.py", "requests/packages/urllib3/exceptions.py"]}
+{"instance_id": "psf__requests-2317", "found_files": ["requests/sessions.py", "requests/models.py", "requests/utils.py", "requests/compat.py"]}
+{"instance_id": "psf__requests-2674", "found_files": ["requests/adapters.py", "requests/exceptions.py", "requests/models.py", "requests/packages/urllib3/exceptions.py"]}
+{"instance_id": "psf__requests-3362", "found_files": ["requests/utils.py", "requests/models.py"]}
+{"instance_id": "psf__requests-863", "found_files": ["requests/models.py", "requests/hooks.py", "requests/sessions.py"]}
+{"instance_id": "pydata__xarray-3364", "found_files": ["xarray/core/concat.py", "xarray/core/combine.py"]}
+{"instance_id": "pydata__xarray-4248", "found_files": ["xarray/core/formatting.py", "xarray/core/formatting_html.py", "xarray/core/options.py"]}
+{"instance_id": "pydata__xarray-5131", "found_files": ["xarray/core/groupby.py"]}
+{"instance_id": "pylint-dev__pylint-5859", "found_files": ["pylint/checkers/misc.py"]}
+{"instance_id": "pylint-dev__pylint-6506", "found_files": ["pylint/config/config_initialization.py", "pylint/lint/run.py", "pylint/__init__.py", "pylint/config/exceptions.py", "pylint/lint/pylinter.py"]}
+{"instance_id": "pylint-dev__pylint-7114", "found_files": ["pylint/lint/expand_modules.py", "pylint/lint/pylinter.py", "pylint/pyreverse/inspector.py"]}
+{"instance_id": "pylint-dev__pylint-7228", "found_files": ["pylint/config/argument.py", "pylint/config/option.py", "pylint/config/arguments_manager.py", "pylint/config/config_initialization.py", "pylint/checkers/base/name_checker/checker.py"]}
+{"instance_id": "pylint-dev__pylint-7993", "found_files": ["pylint/reporters/text.py"]}
+{"instance_id": "pytest-dev__pytest-11143", "found_files": ["src/_pytest/assertion/rewrite.py"]}
+{"instance_id": "pytest-dev__pytest-11148", "found_files": ["src/_pytest/pathlib.py", "src/_pytest/python.py", "src/_pytest/config/__init__.py"]}
+{"instance_id": "pytest-dev__pytest-5103", "found_files": ["src/_pytest/assertion/rewrite.py", "src/_pytest/assertion/util.py"]}
+{"instance_id": "pytest-dev__pytest-5221", "found_files": ["src/_pytest/python.py", "src/_pytest/fixtures.py"]}
+{"instance_id": "pytest-dev__pytest-5413", "found_files": ["src/_pytest/_code/code.py", "src/_pytest/python_api.py"]}
+{"instance_id": "pytest-dev__pytest-5495", "found_files": ["src/_pytest/assertion/util.py"]}
+{"instance_id": "pytest-dev__pytest-5692", "found_files": ["src/_pytest/junitxml.py"]}
+{"instance_id": "pytest-dev__pytest-6116", "found_files": ["src/_pytest/main.py", "src/_pytest/terminal.py", "src/_pytest/logging.py", "src/_pytest/pytester.py"]}
+{"instance_id": "pytest-dev__pytest-7168", "found_files": ["src/_pytest/_io/saferepr.py", "src/_pytest/_code/code.py"]}
+{"instance_id": "pytest-dev__pytest-7220", "found_files": ["src/_pytest/_code/code.py", "src/_pytest/nodes.py", "src/_pytest/main.py", "src/_pytest/config/__init__.py", "src/_pytest/terminal.py"]}
+{"instance_id": "pytest-dev__pytest-7373", "found_files": ["src/_pytest/mark/evaluate.py", "src/_pytest/skipping.py"]}
+{"instance_id": "pytest-dev__pytest-7432", "found_files": ["src/_pytest/skipping.py", "src/_pytest/runner.py", "src/_pytest/outcomes.py"]}
+{"instance_id": "pytest-dev__pytest-7490", "found_files": ["src/_pytest/skipping.py", "src/_pytest/nodes.py"]}
+{"instance_id": "pytest-dev__pytest-8365", "found_files": ["src/_pytest/tmpdir.py"]}
+{"instance_id": "pytest-dev__pytest-8906", "found_files": ["src/_pytest/outcomes.py", "src/_pytest/python.py", "src/pytest/__init__.py", "src/_pytest/skipping.py", "src/_pytest/doctest.py"]}
+{"instance_id": "scikit-learn__scikit-learn-10297", "found_files": ["sklearn/linear_model/ridge.py"]}
+{"instance_id": "scikit-learn__scikit-learn-10508", "found_files": ["sklearn/preprocessing/label.py", "sklearn/utils/validation.py"]}
+{"instance_id": "scikit-learn__scikit-learn-10949", "found_files": ["sklearn/utils/validation.py", "sklearn/preprocessing/data.py", "sklearn/utils/estimator_checks.py", "sklearn/exceptions.py"]}
+{"instance_id": "scikit-learn__scikit-learn-11040", "found_files": ["sklearn/neighbors/base.py", "sklearn/neighbors/unsupervised.py", "sklearn/neighbors/classification.py"]}
+{"instance_id": "scikit-learn__scikit-learn-11281", "found_files": ["sklearn/mixture/base.py", "sklearn/mixture/gaussian_mixture.py", "sklearn/mixture/bayesian_mixture.py"]}
+{"instance_id": "scikit-learn__scikit-learn-12471", "found_files": ["sklearn/preprocessing/_encoders.py", "sklearn/preprocessing/label.py"]}
+{"instance_id": "scikit-learn__scikit-learn-13142", "found_files": ["sklearn/mixture/base.py", "sklearn/mixture/gaussian_mixture.py"]}
+{"instance_id": "scikit-learn__scikit-learn-13241", "found_files": ["sklearn/decomposition/kernel_pca.py", "sklearn/utils/extmath.py", "sklearn/decomposition/pca.py"]}
+{"instance_id": "scikit-learn__scikit-learn-13496", "found_files": ["sklearn/ensemble/iforest.py", "sklearn/ensemble/bagging.py", "sklearn/ensemble/forest.py"]}
+{"instance_id": "scikit-learn__scikit-learn-13497", "found_files": ["sklearn/feature_selection/mutual_info_.py"]}
+{"instance_id": "scikit-learn__scikit-learn-13584", "found_files": ["sklearn/utils/_pprint.py", "sklearn/utils/__init__.py", "sklearn/linear_model/logistic.py", "sklearn/_config.py"]}
