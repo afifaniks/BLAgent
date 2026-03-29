@@ -2,13 +2,17 @@
 
 
 ## Prerequisites
-This repository uses Ollama-based LLMs. Make sure to have Ollama up and running following: https://docs.ollama.com/quickstart
+This repository uses Ollama/Anthropic-based LLMs. Make sure to have Ollama up and running following: https://docs.ollama.com/quickstart
 
 Once Ollama is installed. Pull the LLMs from Ollama library. In our experiments, we use:
 
 `gpt-oss-120b`: https://ollama.com/library/gpt-oss:120b
 
 `qwen3-32b`: https://ollama.com/library/qwen3
+
+For Anthropic models, check out the following page:
+
+`Claude-4.6-Sonnet`: https://platform.claude.com/docs/en/about-claude/pricing
 
 These models are required to reproduce the results.
 
@@ -206,8 +210,10 @@ python evaluation/ranking_evaluation.py
 ```
 Example output:
 
-*RF = Retrieval Failure
 ==================== ALL RESULTS ====================
+
+*RF = Retrieval Failure
+
 | RQ      | Setting                                                     |    MRR |   Acc@1 |   Acc@3 |   Acc@5 |   Acc@10 | RF / Top10 Misses   |
 |---------|-------------------------------------------------------------|--------|---------|---------|---------|----------|---------------------|
 | RQ1.1   | BLAgent (GPT-OSS 120B)                                      | 0.8514 |  0.7867 |  0.9233 |  0.9333 |   0.9433 | 14/17               |
