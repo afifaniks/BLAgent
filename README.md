@@ -266,7 +266,7 @@ Top-10  0.8102 (81.02%)  222/274
 
 
 # Repair with Agentless
-First, we have to convert the BLAgent file-level localization output to suitable Agentless input file in `jsonl` format. For example, if we want to use our previous result file [localization_results/agentic_gpt-oss_120b_temp_0.7_ranked_results.json](localization_results/agentic_gpt-oss_120b_temp_0.7_ranked_results.json), we can do this:
+First, we have to convert the BLAgent file-level localization output to suitable Agentless input file in `jsonl` format. For example, if we want to use our previous result file, we can do this by:
 
 ```bash
 python preprocess/convert_agentless.py --blagent_output retrieval_results/agentic_final_reranked_results.json --converted_output blagent_locs.jsonl
