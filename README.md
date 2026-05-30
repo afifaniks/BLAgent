@@ -346,4 +346,14 @@ We provide additional scripts and notebooks under the [`evaluation/`](evaluation
 ## Acknowledgements
 We thank [Agentless](https://github.com/OpenAutoCoder/Agentless/tree/main) and [CoSIL](https://github.com/ZhonghaoJiang/CoSIL/tree/master) for their work and making it public for others to use.
 
+## Cite
+```bibtex
+@article{mamun2026blagent,
+  title={BLAgent: Agentic RAG for File-Level Bug Localization},
+  author={Mamun, Md Afif Al and Uddin, Gias},
+  journal={arXiv preprint arXiv:2605.17965},
+  year={2026}
+}
+```
+
 
