@@ -1,5 +1,9 @@
 # BLAgent: Agentic RAG for File-Level Bug Localization
+> Accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM)
+>
+> Preprint: https://arxiv.org/pdf/2605.17965
 
+![](blagent/blagent_reranking.png)
 
 ## Prerequisites
 This repository uses Ollama/Anthropic-based LLMs. Make sure to have Ollama up and running following: https://docs.ollama.com/quickstart
