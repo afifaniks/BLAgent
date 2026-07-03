@@ -3,6 +3,12 @@
 >
 > Preprint: https://arxiv.org/pdf/2605.17965
 
+**BLAgent is an agentic RAG framework for localizing buggy files from natural-language bug reports.**
+
+Given a repository and a bug report, BLAgent first encodes the repository into a searchable code index, then transforms the bug report into retrieval-focused queries to identify precise candidate files. It then applies bounded LLM-based reasoning over code skeletons and localized evidence to produce a ranked list of files most likely to require a patch.
+
+This repository provides the implementation, evaluation scripts, and artifacts for reproducing our file-level localization, function-level localization, and Agentless-based repair experiments on SWE-bench Lite dataset.
+
 ![](blagent/blagent_reranking.png)
 
 ## Prerequisites
