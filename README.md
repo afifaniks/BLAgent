@@ -359,10 +359,17 @@ We thank [Agentless](https://github.com/OpenAutoCoder/Agentless/tree/main) and [
 ## Cite
 ```bibtex
 @article{mamun2026blagent,
-  title={BLAgent: Agentic RAG for File-Level Bug Localization},
-  author={Mamun, Md Afif Al and Uddin, Gias},
-  journal={arXiv preprint arXiv:2605.17965},
-  year={2026}
+author = {Mamun, Md Afif Al and Uddin, Gias},
+title = {BLAgent: Agentic RAG for File-Level Bug Localization},
+year = {2026},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {1049-331X},
+url = {https://doi.org/10.1145/3830238},
+doi = {10.1145/3830238},
+journal = {ACM Trans. Softw. Eng. Methodol.},
+month = jul,
+keywords = {Bug localization, retrieval-augmented generation, agentic AI, software maintenance, automated program repair}
 }
 ```
 
